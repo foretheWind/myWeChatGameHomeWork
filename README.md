@@ -1,0 +1,2 @@
+# myWeChatGameHomeWork
+homework distribution
