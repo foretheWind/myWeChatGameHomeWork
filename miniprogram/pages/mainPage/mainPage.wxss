@@ -3,12 +3,18 @@ page{
   width: 100%;
 }
 .container .flex-item {
-  background: coral;
+  background: #AEDD81;
+  margin:0;
+  height: 400rpx;
   width: 100%;
+  padding:0;
+  border-style: solid hidden solid hidden;
+  border-color: whitesmoke;
+  border-width: 5px,0px,5px,0px;
 }
 .container{
   width: 100%;
-  background-color: cadetblue;
+  /* background-color: cadetblue; */
   height: 400px;
 }
 .my_task_block{
