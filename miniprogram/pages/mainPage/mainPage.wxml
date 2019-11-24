@@ -1,3 +1,23 @@
 <!--miniprogram/pages/mainPage/mainPage.wxml-->
+<view class="container">
+  <view class="page-body" style="width:100%;">
+    <view class="page-section">
+      <view class="page-section-title">
+        <text>flex-direction: column\n纵向布局</text>
+      </view>
+      <view class="flex-wrp" style="flex-direction:column;">
+        <view class="flex-item flex-item-V demo-text-1">
+          <view class ="my_task_block">my view</view>
+        </view>
 
-<text>miniprogram/pages/mainPage/mainPage.wxml</text>
+        <view class="flex-item flex-item-V demo-text-2">
+          <view class ="my_task_block">my view</view>
+        </view>
+        
+        <view class="flex-item flex-item-V demo-text-3">
+          <view class ="my_task_block">my view</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

@@ -1,1 +1,17 @@
 /* miniprogram/pages/mainPage/mainPage.wxss */
+page{
+  width: 100%;
+}
+.container .flex-item {
+  background: coral;
+  width: 100%;
+}
+.container{
+  width: 100%;
+  background-color: cadetblue;
+  height: 400px;
+}
+.my_task_block{
+  height: 100%;
+  width: 100%;
+}
